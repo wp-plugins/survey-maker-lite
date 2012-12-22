@@ -1,0 +1,46 @@
+.shortcodePage{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #E6E6E6;
+	overflow: auto;
+	width: 100%	
+	-moz-box-shadow:0 5px 5px rgba(182, 182, 182, 0.75);
+	-webkit-box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+	box-shadow: 0 5px 5px rgba(182, 182, 182, 0.75);
+	
+}
+
+.spacer{
+padding:10px;
+}
+
+.surveyTitle{
+font-size:25px;
+text-align:center;
+}
+
+.questionWrapper{
+padding-bottom:10px;
+margin-bottom:10px;
+border-bottom: 1px solid #E6E6E6;
+padding-left:10px;
+padding-right:10px;
+}
+
+.question{
+float:left;
+margin-right:10px;
+width:55%;
+}
+
+.answer{
+float:right;
+width:40%;
+}
+
+li.ui-state-default{
+list-style:none;
+}
+
+}
